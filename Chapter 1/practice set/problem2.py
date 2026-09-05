@@ -1,0 +1,1 @@
+#open terminal and print table of 5
